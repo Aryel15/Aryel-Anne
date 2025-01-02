@@ -1,6 +1,6 @@
 
 <h1 align="center">Oi 👋, tudo bem? Meu nome é Aryel Anne</h1>
-<h3 align="center">Me formei no ensino médio e técnico em Comunicação Visual na ETEC Tiquatira, e fiz um curso de programação front-end na escola “Start profissões e idiomas”. Atualmente estou cursando o sexto semestre de Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.</h3>
+<h3 align="center">Sou formada em Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.</h3>
 <h3 align="left">Linguagens:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,python,java,nodejs,mysql,mongodb"/>
 <hr>
